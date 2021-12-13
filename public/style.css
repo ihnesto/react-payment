@@ -1,0 +1,53 @@
+.main {
+	width:960px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.more {
+	display: block;
+	color: black;
+	border:1px solid grey;
+	background:lightgrey;
+	cursor:pointer;
+	vertical-align:middle;
+	width: 100px;
+	padding: 5px;
+	text-align: center;
+	margin: 40px 0;
+}
+.sum {
+	border: 1px solid grey;
+	width: 60px;
+	display: inline-block;
+	border-radius: 10px;
+	text-align: center;
+	margin: 0 5px 25px 0;
+	padding: 5px;
+	font-size: 14px;
+	cursor:pointer;
+}
+.sum-else {
+	border: 1px solid grey;
+	width: 120px;
+	display: inline-block;
+	text-align: center;
+	margin: 0 5px 25px 0;
+	padding: 5px;
+	font-size: 14px;
+}
+.sum2 {
+	border: 1px solid grey;
+	text-align: center;
+}
+.checkout {
+	display: block;
+	color: black;
+	border:1px solid grey;
+	background:lightgrey;
+	cursor:pointer;
+	vertical-align:middle;
+	width: 100px;
+	padding: 5px;
+	text-align: center;
+	margin: 40px 0;
+}

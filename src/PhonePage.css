@@ -1,0 +1,16 @@
+.more {
+	display: block;
+	color: black;
+	border:1px solid grey;
+	background:lightgrey;
+	cursor:pointer;
+	vertical-align:middle;
+	width: 100px;
+	padding: 5px;
+	text-align: center;
+	margin: 40px 0;
+}
+.sum2 {
+	border: 1px solid grey;
+	text-align: center;
+}
